@@ -1,0 +1,10 @@
+Today i learned the difference between Sync and Async in node.
+I coded most of the learnyounode course. I got better at vim.
+Goals:
+-Learn vim
+-Continue this course on Node js
+-Install plugins in vim
+-Create Notepad app/server by Monday the latest.
+-Take notes one everything you learned:
+    -Node
+    -vim
